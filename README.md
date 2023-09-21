@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 
 
-https://www.youtube.com/watch?v=RCNX0QT6iwc  (aumentar a qualidade)
+https://youtu.be/RCNX0QT6iwc?si=cH5ZC_YLvTqt2m6t  (aumentar a qualidade)
 
 
 # Integrantes:
